@@ -2,7 +2,7 @@
 layout: post
 title: Netflix's Top Movie Charts
 subtitle: Some interesting finds from looking at Netflix's top rated movies
-author: Jacob Maxfield
+thumbnail-img: /assets/img/thumb.png
 tags: [charts]
 comments: True
 ---
