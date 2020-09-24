@@ -2,7 +2,7 @@
 layout: post
 title: Netflix's Top Movie Charts
 subtitle: Some interesting finds from looking at Netflix's top rated movies
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/netflix_thumbnail.jpg
 tags: [charts]
 comments: True
 ---
