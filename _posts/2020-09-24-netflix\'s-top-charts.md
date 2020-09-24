@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Netflix Top Movies
+title: Netflix\'s Top Movies
 subtitle: Some interesting finds from looking at Netflix's top rated movies
 author: Jacob Maxfield
 tags: [charts]
