@@ -79,6 +79,9 @@
                 Last updated {{ page.last-updated | date: date_format }}
               </span>
             {% endif %}
+            {% if page.author %}
+              {% include author/{{page.author}}.html %}
+            {% endif %}
             {% if page.readtime %}
               {% include readtime.html %}
             {% endif %}
