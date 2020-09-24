@@ -9,7 +9,7 @@ comments: True
 
 If you haven't heard of Netflix... Just kidding. You have.
 
-Netflix has a [chart](https://www.imdb.com/chart/top) that shows the current 250 top rated movies. They also have a few others such as the "Lowest Rated Movies", which seems like a [disaster](https://www.imdb.com/chart/bottom):wink:, but I thought I'd see how ratings were like behind the scenes and not necessarily the polished numbers.
+Netflix has a [chart](https://www.imdb.com/chart/top) that shows the current 250 top rated movies. They also have a few others such as the "Lowest Rated Movies", which seems like a [disaster](https://www.imdb.com/chart/bottom) ;) , but I thought I'd see how ratings were like behind the scenes and not necessarily the polished numbers.
 
 #### Before Thoughts
 
