@@ -60,7 +60,8 @@ Seems like that's true when it comes to a specific movie, but it definitely does
 
 Keep in mine that there are a couple of these genres that only have 1 or two movies in it, so the sample size is not enough to really guarantee that this is what it would be given a larger sample size. But also, this is just a mix of those that are in the top 250, so there's the argument there. Also, most of these movies have multiple genres and one of the genres are generally more present in that movie than others. That can easily skew the data.
 
-Here's a graph of the average star rating of the movies that had come out by that year: ![](https://raw.githubusercontent.com/MaxTechniche/DS20_Unit_1_Build/master/average_stars.png)
+Here's a graph of the average star rating of the movies that had come out by that year: 
+![](https://raw.githubusercontent.com/MaxTechniche/DS20_Unit_1_Build/master/average_stars.png)
 
 You can see how close the green line hangs to the blue one. That's telling us that there is a vast difference in the amount of voting between Males and Females.
 
@@ -71,6 +72,3 @@ So these are my questions for you:
 1. Why aren't there more votes for women?
 2. Why do older and younger people range more on ranking?
 3. Why do females (except those that are 45+ it looks like) not like these movies as much?
-
-
-
