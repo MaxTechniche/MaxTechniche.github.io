@@ -69,6 +69,6 @@ One last graph shows the different averages and standard deviations of each of t
 ![](https://raw.githubusercontent.com/MaxTechniche/DS20_Unit_1_Build/master/group_rankings.png)
 
 So these are my questions for you:
-1. Why aren't there more votes for women?
+1. Why aren't there more votes from women?
 2. Why do older and younger people range more on ranking?
 3. Why do females (except those that are 45+ it looks like) not like these movies as much?
