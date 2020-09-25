@@ -44,31 +44,36 @@ By the way, I've stored the data in a CSV file you can find at my [GitHub](https
 ###### (All of the charts below are shown as averages unless otherwise specified.)
 
 After loading in the data, one if the first things i did was check the value counts of the Release Years. I don't know why. Anyways, lo and behold, 5 pairs of movies with the same release date in the top 250! Here's the chart:
-![](https://raw.githubusercontent.com/MaxTechniche/DS20_Unit_1_Build/master/tandem_release_dates_2.png)
+![](https://raw.githubusercontent.com/MaxTechniche/MaxTechniche.github.io/master/assets/img/tandem_release_dates.png)
 
 Quick note someone noticed about the chart; Each of the pairs are relatively close to each other in terms of ranking. Don't know if it has to do with them being in the top movies or not, but still interesting.
 
 The next chart is the total number of votes per star rating.
-![](https://raw.githubusercontent.com/MaxTechniche/DS20_Unit_1_Build/master/stars_to_num_ratings.png)
+![](https://raw.githubusercontent.com/MaxTechniche/MaxTechniche.github.io/master/assets/img/stars_to_num_ratings.png)
 
 I find this very interesting. The higher the rank, the more votes it has generally. Correlation of .592
 
 My theory is that someone is more likely to vote, the more they like the movie, so other people know it's good. Another is, I think people are more likely to see the IMDb page of the movie the more it is rated.
 
 Seems like that's true when it comes to a specific movie, but it definitely doesn't look like that when it comes to genres.
-![](https://raw.githubusercontent.com/MaxTechniche/DS20_Unit_1_Build/master/genre_votes_and_star_rating_2.png)
+![](https://raw.githubusercontent.com/MaxTechniche/MaxTechniche.github.io/master/assets/img/genre_votes_and_star_rating.png)
 
 Keep in mine that there are a couple of these genres that only have 1 or two movies in it, so the sample size is not enough to really guarantee that this is what it would be given a larger sample size. But also, this is just a mix of those that are in the top 250, so there's the argument there. Also, most of these movies have multiple genres and one of the genres are generally more present in that movie than others. That can easily skew the data.
 
 Here's a graph of the average star rating of the movies that had come out by that year: 
-![](https://raw.githubusercontent.com/MaxTechniche/DS20_Unit_1_Build/master/average_stars.png)
+![](https://raw.githubusercontent.com/MaxTechniche/MaxTechniche.github.io/master/assets/img/average_stars.png)
 
 You can see how close the green line hangs to the blue one. That's telling us that there is a vast difference in the amount of voting between Males and Females.
 
 One last graph shows the different averages and standard deviations of each of the age and gender groups.
-![](https://raw.githubusercontent.com/MaxTechniche/DS20_Unit_1_Build/master/group_rankings.png)
+![](https://raw.githubusercontent.com/MaxTechniche/MaxTechniche.github.io/master/assets/img/group_ranking.png)
 
 So these are my questions for you:
 1. Why aren't there more votes from women?
 2. Why do older and younger people range more on ranking?
 3. Why do females (except those that are 45+ it looks like) not like these movies as much?
+---
+Here are a couple more graphs you can look at :)
+![](https://raw.githubusercontent.com/MaxTechniche/MaxTechniche.github.io/master/assets/img/group_ranking.png)
+![](https://raw.githubusercontent.com/MaxTechniche/MaxTechniche.github.io/master/assets/img/parental_rating.png)
+![](https://raw.githubusercontent.com/MaxTechniche/MaxTechniche.github.io/master/assets/img/movies_per_year.png)
