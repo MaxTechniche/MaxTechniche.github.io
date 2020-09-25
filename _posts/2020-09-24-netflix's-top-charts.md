@@ -72,6 +72,7 @@ So these are my questions for you:
 1. Why aren't there more votes from women?
 2. Why do older and younger people range more on ranking?
 3. Why do females (except those that are 45+ it looks like) not like these movies as much?
+
 ---
 Here are a couple more graphs you can look at :)
 ![](https://raw.githubusercontent.com/MaxTechniche/MaxTechniche.github.io/master/assets/img/release_countries.png)
