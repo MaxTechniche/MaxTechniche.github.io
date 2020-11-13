@@ -11,6 +11,10 @@ If you haven't heard of Netflix... Just kidding. You have.
 
 Netflix has a [chart](https://www.imdb.com/chart/top) that shows the current 250 top-rated movies. They also have a few others such as the "Lowest Rated Movies", which seems like a [disaster](https://www.imdb.com/chart/bottom) ;) , but I thought I'd see how ratings were like behind the scenes and not necessarily the polished numbers.
 
+#### Update
+
+I have a webapp that predicts a movie's runtime. It can be found [here.](https://movie-runtime.herokuapp.com/) \(Will ake a few seconds to load.\)
+
 #### Before Thoughts
 
 Initially, I didn't have any idea what I was going to research. That's not something I generally do or enjoy. (Then again, I don't think most people do.) I eventually thought about movies. I've almost always wanted to be a movie star, to **not** be in the crowd, but to be able to speak in an indirect way. Something I'm sure I'll get the opportunity to do in my life.
